@@ -39,7 +39,7 @@
 
 compiler : **rustc**
 
-## What make rust special ?
+## What make rust special
 
 - Rust stands out primarly by offering **automatic memory management without a garbage collector.**
 - it achives this through strict compile time rules governing `Ownership, borrowing, and move semantics` along with making `immutability` the default `mut`.
