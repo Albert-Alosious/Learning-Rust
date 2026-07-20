@@ -1,0 +1,1 @@
+/Users/albertalosious/Documents/LearnRust/examples/chapter_4/my_executable_project/target/debug/my_executable_project: /Users/albertalosious/Documents/LearnRust/examples/chapter_4/my_executable_project/src/main.rs
